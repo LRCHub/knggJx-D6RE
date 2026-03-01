@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "涙がキラリ☆",
+  "base_artist": "Spitz",
+  "createdAt": "2026-03-01T17:05:27.009536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "涙がキラリ☆",
+      "artist": "SPITZ",
+      "has_synced": false,
+      "path": "select/01_涙がキラリ☆_SPITZ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "涙がキラリ☆",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_涙がキラリ☆_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "涙がキラリ☆ - Namidaga Kirari",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/03_涙がキラリ☆_-_Namidaga_Kirari_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "涙がキラリ☆",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/04_涙がキラリ☆_スピッツ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "涙がキラリ☆",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_涙がキラリ☆_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "涙がキラリ☆",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_涙がキラリ☆_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "涙がキラリ☆",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_03_涙がキラリ☆_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "涙がキラリ☆",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_04_涙がキラリ☆_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "涙がキラリ☆",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_05_涙がキラリ☆_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "涙がキラリ☆",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_06_涙がキラリ☆_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "涙がキラリ☆ [Live]",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_07_涙がキラリ☆_[Live]_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "涙がキラリ☆ [Live]",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_08_涙がキラリ☆_[Live]_スピッツ.txt"
+    }
+  ]
+}
